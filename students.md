@@ -51,5 +51,16 @@ I am Ching Chun Hung
 [My Github account](https://github.com/SouirTommer)
 
 === Do not modify the content below ===
+=== Copy the above template and paste below and edit it ===
 
+
+
+## Wong Yuk Yu
+I am Wong Yuk Yu
+
+[My Github account](https://github.com/danielwong612)
+
+[My Github page](https://danielwong612.github.io/my_github_page/)
+
+=== Do not modify the content below ===
 
